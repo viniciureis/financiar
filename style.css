@@ -71,10 +71,11 @@ body{
   
     position: absolute;
     z-index: -1;
-    width: 98.7vw;
+    width: 99.7vw;
     height: 99vh;
     overflow: hidden;
     display: flex;
+margin-left: -20px;
     justify-content: center;
    }
    .fundo-video .video{
@@ -200,14 +201,16 @@ body{
       margin-left: -35px;
 
       .img{
-       width: 5%;
+       width:10px;
       }
-      .flex{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-      padding-top: 40px;
-      padding-left: 20px;
-      }
+   .flex{
+    padding-top: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   }
+   .imovel{
+    width: 5%;
+   }
     }@media( min-width: 300px) and (max-width:500px){
    
       .cabecalho nav li a{
