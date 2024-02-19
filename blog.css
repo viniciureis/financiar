@@ -15,7 +15,7 @@ header{
 padding-top: 2px;
  margin-left: -10px;
  margin-top: -12px;
- width:100.12vw;
+ width:98.93vw;
 
  
  font-size: 25px;
@@ -33,4 +33,9 @@ a:hover{
     border-color: green;
     border-radius: 30px;
     padding: 5px;
+}
+
+.fle{
+    display: grid;
+    grid:  1fr 1fr 1fr 1fr;
 }
