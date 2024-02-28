@@ -15,7 +15,7 @@ header{
 padding-top: 2px;
  margin-left: -10px;
  margin-top: -12px;
- width:100.12vw;
+ width:98.92vw;
 
  
  font-size: 25px;
@@ -33,4 +33,10 @@ a:hover{
     border-color: green;
     border-radius: 30px;
     padding: 5px;
+}
+.sobre{
+    width: 1348px;
+    height: 390px;
+    margin-top: -30px;
+    margin-left: -10px;
 }

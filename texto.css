@@ -134,3 +134,30 @@ background-size: cover;
     border-color: blue;
     color: white;
   }
+  .footer{
+    background-color: black;
+    margin-left: -10px;
+    width: 98.93vw;
+    margin-top: 10px;
+    margin-bottom: -10px;
+  }
+  .color{
+    color: white;
+    padding-left: 30px;
+  }
+  
+  footer li{
+    color: white;
+   
+  }
+  .grid-footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+  li{
+    list-style: none;
+  }
+   footer li+li{
+  
+    padding-top: 20px;
+  }
