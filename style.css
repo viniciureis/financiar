@@ -216,7 +216,10 @@ margin-left: -20px;
    }
 
 
-
+   .footer li+li {
+    margin-top: 20px;
+      padding-top: 30px;
+    }
 
 
 

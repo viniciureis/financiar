@@ -157,7 +157,9 @@ background-size: cover;
   li{
     list-style: none;
   }
-   footer li+li{
-  
-    padding-top: 20px;
+   .footer li+li {
+  margin-top: 20px;
+    padding-top: 30px;
   }
+
+  
