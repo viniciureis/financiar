@@ -426,4 +426,7 @@ background-size: cover;
     .grid{
       grid-template-columns: 1fr;
     }
+    .jovem{
+      display: none;
+    }
     }
