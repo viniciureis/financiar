@@ -102,7 +102,10 @@ margin-left: -20px;
     transform: scale(1.1);
    }
    
-  
+  .grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
   
   
    .grid{
@@ -428,5 +431,12 @@ background-size: cover;
     }
     .imovel{
       width: 190px;
+    }
+    .texto{
+      font-size: 15px;
+    }
+    .grid-footer{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
     }
     }
