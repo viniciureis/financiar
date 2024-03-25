@@ -90,7 +90,7 @@ a .card:hover{
 
   @media( min-width: 300px) and (max-width:500px){
     .menu{
-        margin-left: 200px;
+        margin-left: 50px;
         gap: 10px;
         text-align: center;
         font-size: 10px;
