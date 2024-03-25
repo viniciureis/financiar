@@ -92,6 +92,8 @@ a .card:hover{
     .menu{
         margin-left: 0px;
         gap: 10px;
+        text-align: center;
+        font-size: 10px;
     }
         .flex34{
             display: grid;
