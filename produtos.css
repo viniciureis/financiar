@@ -147,5 +147,6 @@ transition-delay: 0.1s;
   header{
     width: 100vw;
     height: 50px;
+    margin-left: 10px;
 }
   }
