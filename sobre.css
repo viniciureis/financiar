@@ -103,5 +103,9 @@ a:hover{
        .sobre{
         width: 500px;
        }
+       .grid2{
+        display: grid;
+        grid-template-columns: 1fr;
+       }
  }
  
