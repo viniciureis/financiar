@@ -149,4 +149,12 @@ transition-delay: 0.1s;
     height: 50px;
     margin-left: 10px;
 }
+.grid-footer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.grid{
+  display: grid;
+  grid-template-columns: 1fr;
+}
   }
