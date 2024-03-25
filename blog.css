@@ -90,12 +90,16 @@ a .card:hover{
 
   @media( min-width: 300px) and (max-width:500px){
     .menu{
-        margin-left: 0px;
+        margin-left: 200px;
         gap: 10px;
         text-align: center;
         font-size: 10px;
     }
         .flex34{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+        .grid-footer{
             display: grid;
             grid-template-columns: 1fr 1fr;
         }
