@@ -143,10 +143,11 @@ transition-delay: 0.1s;
       gap: 10px;
       text-align: center;
       font-size: 10px;
-      margin-top: 10px;
+      margin-top: 15px;
+      margin-left: 20px;
   }
   header{
-    width: 100vw;
+    width: 102vw;
     height: 30px;
     margin-left: -10px;
 }
@@ -166,4 +167,8 @@ transition-delay: 0.1s;
  margin-left: 50px; 
  padding: 0px;
 }
+.footer{
+  width: 99vw;
+}
+
   }
