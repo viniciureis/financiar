@@ -439,4 +439,7 @@ background-size: cover;
       display: grid;
       grid-template-columns: 1fr 1fr;
     }
+    .container{
+      margin-top: 120px;
+    }
     }

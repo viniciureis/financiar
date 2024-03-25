@@ -144,7 +144,7 @@ transition-delay: 0.1s;
       text-align: center;
       font-size: 10px;
       margin-top: 15px;
-      margin-left: 20px;
+      margin-left: 40px;
   }
   header{
     width: 102.1vw;
@@ -172,6 +172,9 @@ transition-delay: 0.1s;
 }
 .fundo{
   margin-left: 0px;
+}
+.consorcio{
+  width: 102vw;
 }
 
   }
