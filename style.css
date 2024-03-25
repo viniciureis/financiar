@@ -200,13 +200,10 @@ span{
     background-color: white;
     margin-left: -10px;
     width: 97.2vw;
-    padding: 10px;
-   
-    height: 200px;
+ 
+  
     border-radius: 30px;
-    margin-bottom: 50px;
-    padding-left: 0PX;
-    padding-left: 13px;
+    
 }
 .card{
     background-color: rgb(2, 177, 177);
@@ -320,7 +317,9 @@ background-size: cover;
   }
 
   
-  
+  .container{
+    height: 400px;margin-top: 20px;
+  }
   
 
   .produtos:hover{
@@ -423,9 +422,7 @@ background-size: cover;
     .moto{
       width: 200px;
     }
-    .grid{
-      grid-template-columns: 1fr;
-    }
+    
     .jovem{
       display: none;
     }
