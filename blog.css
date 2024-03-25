@@ -103,5 +103,8 @@ a .card:hover{
             display: grid;
             grid-template-columns: 1fr 1fr;
         }
+        .footer{
+            width: 99vw;
+        }
   }
   
