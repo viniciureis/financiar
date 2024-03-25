@@ -82,3 +82,23 @@ a:hover{
     grid-template-columns: 1fr 1fr ;
     margin-top: 30px;
  }
+ @media( min-width: 300px) and (max-width:500px){
+   .menu{
+       margin-left: 50px;
+       gap: 10px;
+       text-align: center;
+       font-size: 10px;
+   }
+       
+       .footer{
+           display: grid;
+           grid-template-columns: 1fr 1fr;
+           width: 99vw;
+       }
+      
+       header{
+           width: 99vw;
+           height: 20px;
+       }
+ }
+ 
