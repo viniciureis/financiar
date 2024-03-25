@@ -433,13 +433,16 @@ background-size: cover;
       width: 190px;
     }
     .texto{
-      font-size: 15px;
+      font-size: 10px;
     }
     .grid-footer{
       display: grid;
       grid-template-columns: 1fr 1fr;
     }
     .container{
-      margin-top: 120px;
+      margin-top: 320px;
+    }
+    .img{
+      width: 100px;
     }
     }
