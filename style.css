@@ -423,4 +423,7 @@ background-size: cover;
     .moto{
       width: 200px;
     }
+    .grid{
+      grid-template-columns: 1fr;
+    }
     }
