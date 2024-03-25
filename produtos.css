@@ -147,7 +147,7 @@ transition-delay: 0.1s;
       margin-left: 20px;
   }
   header{
-    width: 102vw;
+    width: 102.1vw;
     height: 30px;
     margin-left: -10px;
 }
@@ -169,6 +169,9 @@ transition-delay: 0.1s;
 }
 .footer{
   width: 99vw;
+}
+.fundo{
+  margin-left: 0px;
 }
 
   }
