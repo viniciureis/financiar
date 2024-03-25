@@ -106,5 +106,9 @@ a .card:hover{
         .footer{
             width: 99vw;
         }
+        header{
+            width: 99vw;
+            height: 100px;
+        }
   }
   
