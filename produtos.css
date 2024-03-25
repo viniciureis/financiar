@@ -146,7 +146,7 @@ transition-delay: 0.1s;
   }
   header{
     width: 100vw;
-    height: 50px;
+    height: 30px;
     margin-left: 10px;
 }
 .grid-footer{
@@ -156,5 +156,9 @@ transition-delay: 0.1s;
 .grid{
   display: grid;
   grid-template-columns: 1fr;
+}
+.texto{
+  margin-left: 0px;
+  font-size: 10px;
 }
   }
