@@ -143,11 +143,12 @@ transition-delay: 0.1s;
       gap: 10px;
       text-align: center;
       font-size: 10px;
+      margin-top: 0px;
   }
   header{
     width: 100vw;
     height: 30px;
-    margin-left: 10px;
+    margin-left: -10px;
 }
 .grid-footer{
   display: grid;
