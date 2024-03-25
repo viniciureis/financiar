@@ -443,6 +443,9 @@ background-size: cover;
       margin-top: 320px;
     }
     .img{
-      width: 100px;
+      width: 200px;
+    }
+    .text{
+      width: 30%;
     }
     }
