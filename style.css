@@ -461,5 +461,6 @@ background-size: cover;
 
     .fundo-video{
       margin-left: 0px;
+      margin-top: -10px;
     }
     }
