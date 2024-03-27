@@ -400,8 +400,8 @@ background-size: cover;
       *{
         margin: 0px;
         padding: 0px;
-        margin-bottom: 0px;
-        margin-top: 0px;
+       
+     
       }
       .cabecalho nav li a{
         font-size: 9px;
