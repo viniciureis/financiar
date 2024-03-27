@@ -431,7 +431,7 @@ background-size: cover;
     }
     .imovel{
       width: 190px;
-      margin-top: 50px;
+      margin-top: 25px;
     }
     .texto{
       font-size: 10px;
@@ -447,11 +447,16 @@ background-size: cover;
       width: 200px;
     }
     .text{
-      width: 30%;
+      width: 50%;
+      margin-right: 20px;
     }
 
     .somos{
       width: 200px;
+    }
+    .flex2{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
     }
 
     }
