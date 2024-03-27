@@ -397,6 +397,10 @@ background-size: cover;
 
     }@media( min-width: 300px) and (max-width:500px){
    
+      *{
+        margin: 0px;
+        padding: 0px;
+      }
       .cabecalho nav li a{
         font-size: 9px;
         padding: 10px;
