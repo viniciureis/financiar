@@ -475,4 +475,8 @@ background-size: cover;
     .informacoes{
       margin-top: 10px;
     }
+    .footer{
+      width: 100vw;
+      margin-left: 0px;
+    }
     }
