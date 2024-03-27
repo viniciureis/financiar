@@ -459,4 +459,7 @@ background-size: cover;
       grid-template-columns: 1fr 1fr;
     }
 
+    .fundo-video{
+      margin-left: 0px;
+    }
     }
