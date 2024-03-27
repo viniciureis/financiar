@@ -467,4 +467,10 @@ background-size: cover;
       margin-left: 0px;
       margin-top: -10px;
     }
+    .container{
+      margin-top: 0px;
+    }
+    .informacoes{
+      margin-top: -40px;
+    }
     }
