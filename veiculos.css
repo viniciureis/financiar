@@ -125,7 +125,7 @@ a{
   margin-top: 20px;
   
   }
-  @media(min-width:300px) and(max-width){
+  @media(min-width:300px) and (max-width){
     *{
         margin: 0px;
         padding: 0px;
