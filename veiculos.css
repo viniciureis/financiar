@@ -126,6 +126,10 @@ a{
   
   }
   @media(min-width:300px) and(max-width){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
     .menu{
         margin-left: 50px;
         gap: 10px;
