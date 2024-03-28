@@ -127,15 +127,27 @@ a{
   }
   @media(min-width:300px) and(max-width){
     .menu{
-        margin-left: 0px;
+        margin-left: 50px;
         gap: 10px;
         text-align: center;
         font-size: 10px;
     }
-
-    header{
-        width: 100vw;
-        height: 30px;
-        
-    }
+        .flex34{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+        .grid-footer{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+        .footer{
+            width: 99vw;
+        }
+        header{
+            width: 100vw;
+            height: 30px;
+        }
   }
+  
+    
+  
