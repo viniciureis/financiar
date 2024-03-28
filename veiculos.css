@@ -125,3 +125,16 @@ a{
   margin-top: 20px;
   
   }
+  @media(min-width:300px) and(max-width){
+    .menu{
+        margin-left: 50px;
+        gap: 10px;
+        text-align: center;
+        font-size: 10px;
+    }
+
+    header{
+        width: 100vw;
+        height: 30px;
+    }
+  }
