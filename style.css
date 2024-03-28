@@ -437,7 +437,7 @@ background-size: cover;
     }
     .imovel{
       width: 190px;
-      margin-top: 15px;
+    
     }
     .texto{
       font-size: 10px;
@@ -471,7 +471,8 @@ background-size: cover;
       margin-top: -10px;
     }
     .container{
-      margin-top: 200px;
+      margin-top: 230px;
+      margin-bottom: 10px;
     }
     .informacoes{
       margin-top: 10px;
